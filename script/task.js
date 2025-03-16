@@ -5,7 +5,7 @@ document.getElementById('clear-history').addEventListener('click', function () {
 
 
 const nextPage=document.getElementById('click-1').addEventListener('click',function(){
-    window.location.href='second.html';
+    window.location.href='index.html';
 })
 
 const previousPage=document.getElementById('click-2').addEventListener('click',function(){
